@@ -1,8 +1,3 @@
-var playlist = {
-  DMB: 'Two step', 
-  Radiohead: 'creep'
-  
-}
 
 Object.assign({DMB: 'two step'}, {Radiohead: 'creep'}, {STP: 'vaseline'})
 
