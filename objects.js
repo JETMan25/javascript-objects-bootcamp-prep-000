@@ -1,4 +1,4 @@
-var playlist = { DMB: "two Step", Radiohead: "creep", taylorswift: "Shake it off"};
+Object.assign({DMB: 'two step'}, {Radiohead: 'creep'}, {STP: 'vaseline'})
 
 function updatePlaylist(){
   
