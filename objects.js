@@ -1,2 +1,2 @@
-var playlist = { DMB: 'Two Step', Radiohead: 'creep', taylorswift: 'Shake it off'};
+var playlist = { DMB: "two Step", Radiohead: "creep", taylorswift: "Shake it off"};
 
