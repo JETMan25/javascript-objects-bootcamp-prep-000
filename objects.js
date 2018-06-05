@@ -7,5 +7,5 @@ var playlist = {
 Object.assign({}, playlist, {DMB: 'two step'}, {Radiohead: 'creep'}, {STP: 'vaseline'})
 
 function updatePlaylist(){
-  
+  playlist.DMB = ['crush']
 }
